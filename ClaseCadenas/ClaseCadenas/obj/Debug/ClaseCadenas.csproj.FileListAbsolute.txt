@@ -1,0 +1,7 @@
+D:\alej_\proyectos en vb\c#\ClaseCadenas\ClaseCadenas\bin\Debug\ClaseCadenas.exe.config
+D:\alej_\proyectos en vb\c#\ClaseCadenas\ClaseCadenas\bin\Debug\ClaseCadenas.exe
+D:\alej_\proyectos en vb\c#\ClaseCadenas\ClaseCadenas\bin\Debug\ClaseCadenas.pdb
+D:\alej_\proyectos en vb\c#\ClaseCadenas\ClaseCadenas\obj\Debug\ClaseCadenas.csproj.AssemblyReference.cache
+D:\alej_\proyectos en vb\c#\ClaseCadenas\ClaseCadenas\obj\Debug\ClaseCadenas.csproj.CoreCompileInputs.cache
+D:\alej_\proyectos en vb\c#\ClaseCadenas\ClaseCadenas\obj\Debug\ClaseCadenas.exe
+D:\alej_\proyectos en vb\c#\ClaseCadenas\ClaseCadenas\obj\Debug\ClaseCadenas.pdb
